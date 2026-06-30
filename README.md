@@ -16,6 +16,29 @@ I build applied AI systems at the intersection of data engineering, machine lear
 
 AI engineering student at **ISEP**, apprentice at **Renault Group**, based in Paris. Open to full-time opportunities from **September 2026**.
 
+## Technical Stack
+
+Concrete tools and frameworks I use across AI, data and application projects.
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,postgres,pytorch,tensorflow,sklearn,fastapi,react,ts,docker,git,github,githubactions,vscode" alt="Python, PostgreSQL, PyTorch, TensorFlow, scikit-learn, FastAPI, React, TypeScript, Docker, Git, GitHub, GitHub Actions, VS Code">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain">
+  <img src="https://img.shields.io/badge/LangGraph-111827?style=flat-square" alt="LangGraph">
+  <img src="https://img.shields.io/badge/Sentence%20Transformers-111827?style=flat-square" alt="Sentence Transformers">
+  <img src="https://img.shields.io/badge/FAISS-2563EB?style=flat-square" alt="FAISS">
+  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI API">
+  <img src="https://img.shields.io/badge/Codex-111827?style=flat-square&logo=openai&logoColor=white" alt="Codex">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit">
+</p>
+
 ## Featured Public Work
 
 ### [BOFiP Agentic RAG](https://github.com/Rapha1503/bofip-agentic-rag)
@@ -29,34 +52,6 @@ Public project around document intelligence and agentic RAG on a demanding legal
 - Evaluation workflow with reviewed test questions and failure analysis.
 
 **Links:** [Repository](https://github.com/Rapha1503/bofip-agentic-rag) / [Live demo](https://rapha1503-bofip-agentic-rag.hf.space/)
-
-## Technical Stack
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,postgres,pytorch,tensorflow,sklearn,docker,git,github,githubactions,vscode" alt="Python, PostgreSQL, PyTorch, TensorFlow, scikit-learn, Docker, Git, GitHub, GitHub Actions, VS Code">
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/Sentence%20Transformers-111827?style=flat-square" alt="Sentence Transformers">
-  <img src="https://img.shields.io/badge/FAISS-2563EB?style=flat-square" alt="FAISS">
-  <img src="https://img.shields.io/badge/RAG-111827?style=flat-square" alt="RAG">
-  <img src="https://img.shields.io/badge/Retrieval-0F766E?style=flat-square" alt="Retrieval">
-  <img src="https://img.shields.io/badge/Agentic%20AI-7A1832?style=flat-square" alt="Agentic AI">
-  <img src="https://img.shields.io/badge/Codex-111827?style=flat-square&logo=openai&logoColor=white" alt="Codex">
-  <img src="https://img.shields.io/badge/LLM%20Apps-2563EB?style=flat-square" alt="LLM Apps">
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit">
-  <img src="https://img.shields.io/badge/Evaluation-F59E0B?style=flat-square" alt="Evaluation">
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-374151?style=flat-square" alt="Prompt Engineering">
-  <img src="https://img.shields.io/badge/NLP-0F766E?style=flat-square" alt="NLP">
-  <img src="https://img.shields.io/badge/Celonis-00B3B8?style=flat-square" alt="Celonis">
-  <img src="https://img.shields.io/badge/PQL-7A1832?style=flat-square" alt="PQL">
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel">
-</p>
 
 ## Experience & Education
 
