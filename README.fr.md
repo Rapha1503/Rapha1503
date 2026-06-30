@@ -1,46 +1,30 @@
 <p align="center">
-  <img src="assets/profile-banner.svg" alt="Raphael Ifergan - AI and Data Engineering" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=gradient&text=Raphael%20Ifergan&fontColor=FFFFFF&fontSize=52&fontAlignY=36&desc=AI%20and%20Data%20Engineering%20%7C%20GenAI%20-%20Agentic%20AI%20-%20RAG%20-%20Applied%20ML&descSize=17&descAlignY=58" alt="Raphael Ifergan - AI and Data Engineering">
 </p>
-
-<p align="center">
-  <a href="README.md"><img src="https://img.shields.io/badge/EN-English-2563EB?style=for-the-badge" alt="English"></a>
-  <a href="#francais"><img src="https://img.shields.io/badge/FR-Francais-7A1832?style=for-the-badge" alt="Francais"></a>
-  <a href="https://www.linkedin.com/in/raphaelifergan/"><img src="https://img.shields.io/badge/LinkedIn-Raphael%20Ifergan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:raphael.iferganpro@gmail.com"><img src="https://img.shields.io/badge/Email-raphael.iferganpro%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
-
-<a id="francais"></a>
 
 # Raphael Ifergan
 
-**AI & Data Engineering | GenAI, RAG, Applied ML**
+**AI & Data Engineering | GenAI, Agentic AI, RAG, Applied ML**
 
-Je construis des systèmes IA appliqués à des problèmes data concrets : pipelines de retrieval, applications LLM, boucles d'évaluation et workflows de machine learning suffisamment lisibles pour être inspectés, testés et améliorés.
+Je construis des systèmes IA appliqués à l'intersection de la data engineering, du machine learning et des applications LLM. Mon axe actuel est l'agentic AI pragmatique : retrieval, tool use, orchestration, évaluation et réponses sourcées.
 
-Je suis étudiant en ingénierie IA à **l'ISEP** et apprenti chez **Renault Group** à Paris. Je recherche une opportunité full-time à partir de **septembre 2026**.
+Étudiant en ingénierie IA à **l'ISEP**, apprenti chez **Renault Group**, basé à Paris. Ouvert aux opportunités full-time à partir de **septembre 2026**.
 
-## Ce que je construis
-
-| Axe | Concrètement |
-| --- | --- |
-| **GenAI & RAG systems** | réponses sourcées, qualité du retrieval, citations, évaluation, démos BYOK |
-| **Applied ML** | segmentation, classification, explicabilité, modèles orientés métier |
-| **Data engineering for AI** | parsing, nettoyage, indexation, pipelines reproductibles, datasets fiables |
-
-## Projet mis en avant
+## Projet public mis en avant
 
 ### [BOFiP Agentic RAG](https://github.com/Rapha1503/bofip-agentic-rag)
 
-Projet RAG full-corpus sur la doctrine fiscale française, conçu pour produire des réponses avec sources BOFiP citées et preuves de retrieval visibles.
+Projet public de document intelligence et d'agentic RAG sur un corpus juridique/fiscal exigeant. Le domaine est fiscal, mais le travail d'ingénierie est transférable : ingestion, retrieval, orchestration, grounding, évaluation et déploiement.
 
-- Couverture corpus complet, pas une démo réduite.
-- Expérimentations de retrieval hybride, inspection des chunks et relances ciblées.
-- Interface Streamlit BYOK déployée sur Hugging Face Spaces.
-- Évaluation sur un jeu de questions fiscales et analyse documentée des échecs.
+- Retrieval full-corpus, pas une démo réduite.
+- Query planning, source review et relances retrieval ciblées.
+- Réponses citées avec sources BOFiP visibles.
+- Interface Streamlit BYOK, déploiement Docker/Hugging Face.
+- Workflow d'évaluation avec questions relues et analyse des échecs.
 
 **Liens :** [Repository](https://github.com/Rapha1503/bofip-agentic-rag) / [Live demo](https://rapha1503-bofip-agentic-rag.hf.space/)
 
-## Stack
+## Stack technique
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -49,34 +33,35 @@ Projet RAG full-corpus sur la doctrine fiscale française, conçu pour produire 
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/RAG-111827?style=flat-square" alt="RAG">
-  <img src="https://img.shields.io/badge/LLM%20Apps-2563EB?style=flat-square" alt="LLM Apps">
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Transformers">
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face">
+  <img src="https://img.shields.io/badge/FAISS-2563EB?style=flat-square" alt="FAISS">
+  <img src="https://img.shields.io/badge/RAG-111827?style=flat-square" alt="RAG">
+  <img src="https://img.shields.io/badge/Agentic%20AI-7A1832?style=flat-square" alt="Agentic AI">
+  <img src="https://img.shields.io/badge/NLP-0F766E?style=flat-square" alt="NLP">
+  <img src="https://img.shields.io/badge/Evaluation-F59E0B?style=flat-square" alt="Evaluation">
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-374151?style=flat-square" alt="Prompt Engineering">
   <img src="https://img.shields.io/badge/Celonis-00B3B8?style=flat-square" alt="Celonis">
   <img src="https://img.shields.io/badge/PQL-7A1832?style=flat-square" alt="PQL">
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face">
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel">
 </p>
 
-## Manière de travailler
+## Expérience & formation
 
-- Je privilégie les systèmes qui exposent leurs preuves : logs, sources, tests, évaluations.
-- Je sépare qualité du retrieval, génération du modèle et critères d'évaluation au lieu de traiter la réponse LLM comme une boîte noire.
-- J'aime les projets assez utiles pour être démontrés et assez reproductibles pour être inspectés par un autre ingénieur.
+**Renault Group** - AI/Data Apprentice  
+Travail appliqué en data et IA dans un environnement professionnel, avec attention à la qualité des données, aux contraintes métier et à la construction d'outils utilisables.
 
-## Recherche
+**ISEP** - Étudiant ingénieur, parcours AI/Data  
+Cursus d'ingénieur orienté data science, machine learning et IA appliquée.
 
-Postes full-time à partir de **septembre 2026** :
+## Ouvert à
 
-- AI Engineer
-- Data Scientist
-- GenAI / LLM Engineer
-- Applied AI Engineer
-- Data / AI Consultant
+AI Engineer / Data Scientist / GenAI ou LLM Engineer / Applied AI Engineer / Data & AI Consultant
 
 ## Contact
 
 - Email : [raphael.iferganpro@gmail.com](mailto:raphael.iferganpro@gmail.com)
 - LinkedIn : [linkedin.com/in/raphaelifergan](https://www.linkedin.com/in/raphaelifergan/)
-
+- English version: [README.md](README.md)
