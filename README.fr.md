@@ -19,7 +19,7 @@ Projet public de document intelligence et d'agentic RAG sur un corpus juridique/
 - Retrieval full-corpus, pas une démo réduite.
 - Query planning, source review et relances retrieval ciblées.
 - Réponses citées avec sources BOFiP visibles.
-- Interface Streamlit BYOK, déploiement Docker/Hugging Face.
+- Démo Streamlit BYOK dockerisée.
 - Workflow d'évaluation avec questions relues et analyse des échecs.
 
 **Liens :** [Repository](https://github.com/Rapha1503/bofip-agentic-rag) / [Live demo](https://rapha1503-bofip-agentic-rag.hf.space/)
@@ -28,21 +28,25 @@ Projet public de document intelligence et d'agentic RAG sur un corpus juridique/
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,tensorflow,postgres,docker,git,github,githubactions,streamlit,powershell,vscode" alt="Python, scikit-learn, PyTorch, TensorFlow, PostgreSQL, Docker, Git, GitHub, GitHub Actions, Streamlit, PowerShell, VS Code">
+    <img src="https://skillicons.dev/icons?i=python,postgres,pytorch,tensorflow,sklearn,docker,git,github,githubactions,vscode" alt="Python, PostgreSQL, PyTorch, TensorFlow, scikit-learn, Docker, Git, GitHub, GitHub Actions, VS Code">
   </a>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Transformers">
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face">
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/Sentence%20Transformers-111827?style=flat-square" alt="Sentence Transformers">
   <img src="https://img.shields.io/badge/FAISS-2563EB?style=flat-square" alt="FAISS">
   <img src="https://img.shields.io/badge/RAG-111827?style=flat-square" alt="RAG">
+  <img src="https://img.shields.io/badge/Retrieval-0F766E?style=flat-square" alt="Retrieval">
   <img src="https://img.shields.io/badge/Agentic%20AI-7A1832?style=flat-square" alt="Agentic AI">
-  <img src="https://img.shields.io/badge/NLP-0F766E?style=flat-square" alt="NLP">
+  <img src="https://img.shields.io/badge/Codex-111827?style=flat-square&logo=openai&logoColor=white" alt="Codex">
+  <img src="https://img.shields.io/badge/LLM%20Apps-2563EB?style=flat-square" alt="LLM Apps">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit">
   <img src="https://img.shields.io/badge/Evaluation-F59E0B?style=flat-square" alt="Evaluation">
   <img src="https://img.shields.io/badge/Prompt%20Engineering-374151?style=flat-square" alt="Prompt Engineering">
+  <img src="https://img.shields.io/badge/NLP-0F766E?style=flat-square" alt="NLP">
   <img src="https://img.shields.io/badge/Celonis-00B3B8?style=flat-square" alt="Celonis">
   <img src="https://img.shields.io/badge/PQL-7A1832?style=flat-square" alt="PQL">
   <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel">
